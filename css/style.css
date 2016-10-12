@@ -11,3 +11,9 @@ li.best{
 h1 {
   color: blue;
 }
+.important{
+    font-size: 100px;
+}
+.special {
+color: #FFCC99;  
+}
