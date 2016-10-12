@@ -3,17 +3,36 @@ p.flashy{
     font-style: italic;
 }
 
-li.best{
+p.best{
     color: #FFCC99;
-    font-size: 200px;
+    font-size: 100px;
     font-family: 'Tangerine', cursive;
 }
 h1 {
   color: blue;
 }
 .important{
-    font-size: 100px;
+    font-size: 50px;
 }
 .special {
-color: #FFCC99;  
+color: #FFCC99;
+}
+img {
+float: center;
+}
+.sidebar {
+  width: 5%;
+  float:right;
+  background-color: yellow;
+}
+.headersize {
+  font size: 575px;
+}
+.column {
+  width: 300px;
+  float: left;
+}
+.column-right{
+  width:300px;
+  float:right;
 }
